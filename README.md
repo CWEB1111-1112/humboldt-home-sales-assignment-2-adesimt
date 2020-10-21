@@ -1,15 +1,9 @@
-#  MPLS care attendant Daily Dog Log
+#  Humboldt Home Sales Agent Performance Calculator
 
-The MPLS care attendant Daily Dog Log is a program that allows the care attendant manager to  enter daily log for each Dog in MPLS Dogboarding Academy's care.  Listed below is a chart with the name of each care attendant and the name of each dog in thier care.  The program allows the manager to enter the total amount of time spent with the dog, the services provided to dog(bath, grooming or none), and a general note about dog's day and tempermant.  Once the manager is done entering all logs, the program will display all the logs grouped by care attendant. The program also provides you with a summary of the dog with the most care minutes.
+The Humboldt Home Sales Agent Performance Calculator is a program that allows you to track the total sales for their three agents (Silas, Noah and Chris). The program also provides you with a summary of who has the highest and lowest amount of sales.
 
-| ID # | Care Attendant Name | Dogs in Care                                         |
-|------|---------------------|------------------------------------------------------|
-| 11   | Noah Charles        | [348 - Badger][322 - Cujo][311 - Suzy]               |
-| 22   | Silas Alexander     | [301 - Mavis][300 - Quigs][366 - Loren][303-Bradley] |
-| 8    | Christopher Isaac   | [325 - Gunner]                                       |
-| 44   | Mya Lynn            | [388 - Daisy][390 - Danger]                          |
-
-
+## Requirements
+Construct a program that prompts the user for a salesperson initial(S,N or C) Either uppercase or lowercase initials are valid. While the user does not type Z, continue by prompting for the amount of a sale. Issue an error message for any invalid initials entered. Keep a running total of the amounts sold by each salesperson. After the user types Z or z for an initial, display each salesperson's total, a grand total for all sales, and the name of the salesperson with the highest total.
 
 ## Submission
 Please submit a zipped folder containing your c# console application and the URL to your Github repository.

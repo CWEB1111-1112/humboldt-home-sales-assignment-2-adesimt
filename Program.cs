@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Assignment 2 by Simeon adewale
+
+using System;
 
 namespace assignment2
 {
